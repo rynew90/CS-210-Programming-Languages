@@ -1,6 +1,6 @@
 # CPlusPlusProgram
 
-*Summarize the project and what problem it was solving.
+*Summarize the project and what problem it was solving. endl;
     This project aims to create a menu with seletions to sort and print total number of groceries bought in a day, display the total number of a specific item purchased in that day, or to create a file to display a histogram of items bought in a day.
 
 *What did you do particularly well?
